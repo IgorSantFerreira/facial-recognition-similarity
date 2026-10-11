@@ -1,0 +1,6 @@
+﻿Pessoa real,Pessoa prevista,Similaridade média,Acertou
+pessoa_01,pessoa_01,0.5376,True
+pessoa_02,pessoa_02,0.7606,True
+pessoa_03,pessoa_03,0.4378,True
+pessoa_04,pessoa_04,0.2657,True
+pessoa_05,pessoa_05,0.7095,True
